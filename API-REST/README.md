@@ -31,9 +31,9 @@ php -S localhost:8080
 
 # Uso
 
-Endpoints
-GET /api-rest/api/v1/user/list?limit=10
-Retorna uma lista de usuários com um limite especificado.
+Endpoints   
+GET /api-rest/api/v1/user/list?limit=10   
+Retorna uma lista de usuários com um limite especificado.   
 
 # Exemplo de Requisição
 
